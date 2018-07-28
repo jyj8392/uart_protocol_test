@@ -1,0 +1,9 @@
+E:\周浦\work\程杰\通信协议测试软件\PumpProtocol\PumpProtocol\bin\Debug\PumpProtocol.exe.config
+E:\周浦\work\程杰\通信协议测试软件\PumpProtocol\PumpProtocol\bin\Debug\PumpProtocol.exe
+E:\周浦\work\程杰\通信协议测试软件\PumpProtocol\PumpProtocol\bin\Debug\PumpProtocol.pdb
+E:\周浦\work\程杰\通信协议测试软件\PumpProtocol\PumpProtocol\obj\Debug\PumpProtocol.csprojResolveAssemblyReference.cache
+E:\周浦\work\程杰\通信协议测试软件\PumpProtocol\PumpProtocol\obj\Debug\PumpProtocol.ProtocolTester.resources
+E:\周浦\work\程杰\通信协议测试软件\PumpProtocol\PumpProtocol\obj\Debug\PumpProtocol.Properties.Resources.resources
+E:\周浦\work\程杰\通信协议测试软件\PumpProtocol\PumpProtocol\obj\Debug\PumpProtocol.csproj.GenerateResource.Cache
+E:\周浦\work\程杰\通信协议测试软件\PumpProtocol\PumpProtocol\obj\Debug\PumpProtocol.exe
+E:\周浦\work\程杰\通信协议测试软件\PumpProtocol\PumpProtocol\obj\Debug\PumpProtocol.pdb
